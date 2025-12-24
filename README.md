@@ -1,2 +1,2 @@
 # Prompts
-The best prompts for all sides of life
+The best prompts for all sides of your life
