@@ -7,21 +7,21 @@ Core of the method: multi-agent learning prompt system. It sounds complicated, b
 
 This project contains prompts for:
 
--Logic and critical thinking exercises.
+• Logic and critical thinking exercises.
 
--Self-attention method.
+• Self-attention method.
 
--Critical comparison method.
+• Critical comparison method.
 
--Mnemonic map method.
+• Mnemonic map method.
 
--Spaced repetition method (interval-based repetition technique for better long-term retention).
+• Spaced repetition method (interval-based repetition technique for better long-term retention).
 
--Memory training through mental tasks.
+• Memory training through mental tasks.
 
--Reasoning training using the "Ladder of Abstraction" method.
+• Reasoning training using the "Ladder of Abstraction" method.
 
--"How Might We..." technique.
+• "How Might We..." technique.
 
--Cognitive reframing.
+• Cognitive reframing.
 
