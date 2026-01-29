@@ -9,20 +9,20 @@ This project contains prompts for:
 
 • [Logic and critical thinking exercises.](https://github.com/LisovskiiG/Prompts-for-Developing-Thinking/blob/main/1_Logic%20and%20critical%20thinking%20exercises.txt)
 
-• Self-attention method.
+• [Self-attention method.](https://github.com/LisovskiiG/Prompts-for-Developing-Thinking/blob/main/2_Self-attention%20method.txt)
 
-• Critical comparison method.
+• [Critical comparison method.](https://github.com/LisovskiiG/Prompts-for-Developing-Thinking/blob/main/3_Critical%20comparison%20method.txt)
 
-• Mnemonic map method.
+• [Mnemonic map method.](https://github.com/LisovskiiG/Prompts-for-Developing-Thinking/blob/main/4_Mnemonic%20map%20method.txt)
 
-• Spaced repetition method (interval-based repetition technique for better long-term retention).
+• [Spaced repetition method- interval-based repetition technique for better long-term retention.](https://github.com/LisovskiiG/Prompts-for-Developing-Thinking/blob/main/5_Spaced%20repetition%20method%20(interval-based%20repetition%20technique%20for%20better%20long-term%20retention).txt)
 
-• Memory training through mental tasks.
+• [Memory training through mental tasks.](https://github.com/LisovskiiG/Prompts-for-Developing-Thinking/blob/main/6_Memory%20training%20through%20mental%20tasks.txt)
 
-• Reasoning training using the "Ladder of Abstraction" method.
+• [Reasoning training using the "Ladder of Abstraction" method.](https://github.com/LisovskiiG/Prompts-for-Developing-Thinking/blob/main/7_Reasoning%20training%20using%20the%20Ladder%20of%20Abstraction%20method.txt)
 
-• "How Might We..." technique.
+• ["How Might We..." technique.](https://github.com/LisovskiiG/Prompts-for-Developing-Thinking/blob/main/8_How%20Might%20We...%20technique.txt)
 
-• Cognitive reframing.
+• [Cognitive reframing.](https://github.com/LisovskiiG/Prompts-for-Developing-Thinking/blob/main/9_Cognitive%20reframing.txt)
 
-• Cognitive conflict method
+• [Cognitive conflict method.](https://github.com/LisovskiiG/Prompts-for-Developing-Thinking/blob/main/10_Cognitive%20conflict%20method.txt)
