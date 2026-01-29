@@ -7,7 +7,7 @@ Core of the method: multi-agent learning prompt system. It sounds complicated, b
 
 This project contains prompts for:
 
-• ![Logic and critical thinking exercises.](https://github.com/LisovskiiG/Prompts-for-Developing-Thinking/blob/main/1_Logic%20and%20critical%20thinking%20exercises.txt)
+• [Logic and critical thinking exercises.](https://github.com/LisovskiiG/Prompts-for-Developing-Thinking/blob/main/1_Logic%20and%20critical%20thinking%20exercises.txt)
 
 • Self-attention method.
 
