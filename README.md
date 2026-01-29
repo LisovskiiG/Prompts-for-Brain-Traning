@@ -25,3 +25,4 @@ This project contains prompts for:
 
 • Cognitive reframing.
 
+• Cognitive conflict method
