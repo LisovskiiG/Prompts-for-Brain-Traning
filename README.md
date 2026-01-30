@@ -24,6 +24,12 @@ This project contains prompts for:
 
 • ["How Might We..." technique.](https://github.com/LisovskiiG/Prompts-for-Developing-Thinking/blob/main/8_How%20Might%20We...%20technique.txt)
 
+• [Elements_Toulmin Model](https://github.com/LisovskiiG/Prompts-for-Developing-Thinking/blob/main/Elements_Toulmin%20Model.txt)
+
+• [Argouments_Toulmin Model](https://github.com/LisovskiiG/Prompts-for-Developing-Thinking/blob/main/Argouments_Toulmin%20Model.txt)
+
+• [Contra_Argouments_Toulmin_Model](https://github.com/LisovskiiG/Prompts-for-Developing-Thinking/blob/main/Contra_Argouments_Toulmin_Model.txt)
+
 • [Cognitive reframing.](https://github.com/LisovskiiG/Prompts-for-Developing-Thinking/blob/main/9_Cognitive%20reframing.txt)
 
 • [Cognitive conflict method.](https://github.com/LisovskiiG/Prompts-for-Developing-Thinking/blob/main/10_Cognitive%20conflict%20method.txt)
