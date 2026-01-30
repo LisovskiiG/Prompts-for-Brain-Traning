@@ -1,7 +1,8 @@
 # Prompts for Developing Thinking
 This is a collection of prompts for developing mental skills. They allow you to effectively use Artificial Intelligence to enhance logic, critical thinking, memory, and attention, as well as apply all of this in practice. 
 
-![antique_typewriter](https://github.com/user-attachments/assets/2c23bcdc-ad18-442b-8696-12c12c3ab350)
+![Brain](https://github.com/user-attachments/assets/ee2402b5-285f-40ff-a4b9-f88787dd41ab)
+
 
 Core of the method: multi-agent learning prompt system. It sounds complicated, but it's actually quite simple. We will assign the AI the roles of a mentor who explains the theory to us, and a partner for practicing knowledge in real scenarios. For each of them, you can optionally add personality traits, communication skills, and background.
 
