@@ -26,10 +26,12 @@ This project contains prompts for:
 
 • [Elements_Toulmin Model](https://github.com/LisovskiiG/Prompts-for-Developing-Thinking/blob/main/Elements_Toulmin%20Model.txt)
 
-• [Argouments_Toulmin Model](https://github.com/LisovskiiG/Prompts-for-Developing-Thinking/blob/main/Argouments_Toulmin%20Model.txt)
+• [Arguments_Toulmin Model](https://github.com/LisovskiiG/Prompts-for-Developing-Thinking/blob/main/Argouments_Toulmin%20Model.txt)
 
-• [Contra_Argouments_Toulmin_Model](https://github.com/LisovskiiG/Prompts-for-Developing-Thinking/blob/main/Contra_Argouments_Toulmin_Model.txt)
+• [Contra_Arguments_Toulmin_Model](https://github.com/LisovskiiG/Prompts-for-Developing-Thinking/blob/main/Contra_Argouments_Toulmin_Model.txt)
 
 • [Cognitive reframing.](https://github.com/LisovskiiG/Prompts-for-Developing-Thinking/blob/main/9_Cognitive%20reframing.txt)
 
 • [Cognitive conflict method.](https://github.com/LisovskiiG/Prompts-for-Developing-Thinking/blob/main/10_Cognitive%20conflict%20method.txt)
+
+• [Aargumentation coach.](https://github.com/LisovskiiG/Prompts-for-Developing-Thinking/blob/main/Argumentation%20coach.txt)
