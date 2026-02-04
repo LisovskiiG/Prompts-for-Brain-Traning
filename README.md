@@ -1,4 +1,4 @@
-# Prompts for Developing Thinking
+# Prompts for Brain Traning
 This is a collection of prompts for developing mental skills. They allow you to effectively use Artificial Intelligence to enhance logic, critical thinking, memory, and attention, as well as apply all of this in practice. 
 
 ![Brain](https://github.com/user-attachments/assets/ee2402b5-285f-40ff-a4b9-f88787dd41ab)
